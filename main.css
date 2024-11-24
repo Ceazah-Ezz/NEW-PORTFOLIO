@@ -5,7 +5,6 @@
     color: #570468;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: #49063d;
-    font-size: 20;
     align-content: center;
     text-align: center;
     margin: auto;
@@ -21,7 +20,7 @@
     right: 0;
     margin-bottom: 10px;
     overflow: hidden;
-    padding: 10px 20px;
+    padding: 9px 15px;
     background-color: #570468;
     position: fixed;
     width: 100%;
