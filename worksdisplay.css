@@ -1,6 +1,14 @@
-row
-{
-    top: 30;
-    padding: 10px 20px;
-    background-color: #570468;
+.row{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 3px;
+    text-align: left;
+}
+
+.text{
+    text-align: right;
+}
+
+.image{
+    align-self: left;
 }
