@@ -10,6 +10,11 @@
     margin: auto;
 }
 
+/* Cheatspace.. shhhh */
+.bigspace {
+  padding: 45px 45px;
+}
+
 /* Navigation bar */
 .navbar {
     display: grid;

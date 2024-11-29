@@ -1,15 +1,17 @@
 .row{
     align-content: center;
-    padding: 45px 45px;
+    padding: 20px;
     display: grid;
-    grid-template-columns: 5fr 5fr 5fr 5fr;
-    column-gap: 10px;
+    grid-template-columns: 5fr 5fr;
+    column-gap: 40px;
 }
 
-.text{
+/* Useless code */
+
+/*.text{
     text-align: left;
 }
 
 .image{
     align-content: left;
-}
+}*/
