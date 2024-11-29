@@ -1,9 +1,30 @@
 .row{
     align-content: center;
-    padding: 20px;
+    padding: 15px;
     display: grid;
     grid-template-columns: 5fr 5fr;
-    column-gap: 40px;
+    column-gap: 35px;
+    
+}
+
+.trow{
+    align-content: center;
+    padding: 5px;
+    display: grid;
+    grid-template-columns: 5fr 5fr;
+    column-gap: 35px;
+}
+
+img
+{
+    border: 5px solid;
+    border-color: #570468;
+}
+
+hr
+{
+    border: 3px solid;
+    border-color: #570468;
 }
 
 /* Useless code */
