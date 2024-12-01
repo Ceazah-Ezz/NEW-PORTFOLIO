@@ -1,6 +1,29 @@
 .page
 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid{
+    text-align: right;
+    align-content: center;
+    padding: 5px 10px;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    
+    column-gap: 10px;
+    font-size: 18px;
+}
+
+.contacts{
+    align-content: center;
+    padding: 5px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 10px;
+}
+
+a
+{
+    text-decoration: none;
 }

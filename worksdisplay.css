@@ -1,6 +1,31 @@
-row
-{
-    top: 30;
-    padding: 10px 20px;
-    background-color: #570468;
+.row{
+    align-content: center;
+    padding: 15px;
+    display: grid;
+    grid-template-columns: 5fr 5fr;
+    column-gap: 35px;
 }
+
+.trow{
+    align-content: center;
+    padding: 5px;
+    display: grid;
+    grid-template-columns: 5fr 5fr;
+    column-gap: 35px;
+}
+
+.otherimg
+{
+    border: 5px solid;
+    border-color: #570468;
+}
+
+/* Useless code */
+
+/*.text{
+    text-align: left;
+}
+
+.image{
+    align-content: left;
+}*/
