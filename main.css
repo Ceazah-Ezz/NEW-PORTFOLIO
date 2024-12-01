@@ -10,6 +10,12 @@
     margin: auto;
 }
 
+hr
+{
+    border: 3px solid;
+    border-color: #570468;
+}
+
 /* Cheatspace.. shhhh */
 .bigspace {
   padding: 45px 45px;
@@ -18,7 +24,7 @@
 /* Navigation bar */
 .navbar {
     display: grid;
-    grid-template-columns: 6fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 6fr 1fr 1fr 1fr;
     column-gap: 2px;
     margin: top;
     top: 0;

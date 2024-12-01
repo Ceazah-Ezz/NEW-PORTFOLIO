@@ -4,7 +4,6 @@
     display: grid;
     grid-template-columns: 5fr 5fr;
     column-gap: 35px;
-    
 }
 
 .trow{
@@ -15,15 +14,9 @@
     column-gap: 35px;
 }
 
-img
+.otherimg
 {
     border: 5px solid;
-    border-color: #570468;
-}
-
-hr
-{
-    border: 3px solid;
     border-color: #570468;
 }
 
